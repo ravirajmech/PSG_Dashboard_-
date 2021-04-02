@@ -1,0 +1,21 @@
+Sl.no,Product Code,Product Type,Voltage(V),Current(A),Frequency(Hz),Discharge(lpm),Head Range,Speed(rpm),Result,Possible Causes,Solutions
+1,A1001,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+2,A1002,1HP MonoBlock,220,3,50,1040,31,2880,Pass,Nil,Nil
+3,A1003,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+4,A1004,1HP MonoBlock,230,3,50,1020,20,2880,Fail,Water leakage,Tightening all Bolts
+5,A1005,1HP MonoBlock,220,3,50,1040,32,2880,Pass,Nil,Nil
+6,A1006,1HP MonoBlock,230,3,50,1020,31,2880,Pass,Nil,Nil
+7,A1007,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+8,A1008,1HP MonoBlock,220,3,50,1040,31,2880,Pass,Nil,Nil
+9,A1009,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+10,A1010,1HP MonoBlock,230,3,50,1020,31,2880,Pass,Nil,Nil
+11,A1011,1HP MonoBlock,220,3,50,1040,32,2880,Pass,Nil,Nil
+12,A1012,1HP MonoBlock,230,3,50,1020,31,2880,Pass,Nil,Nil
+13,A1013,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+14,A1014,1HP MonoBlock,220,3,50,1040,31,2880,Pass,Nil,Nil
+15,A1015,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+16,A1016,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+17,A1017,1HP MonoBlock,220,3,50,1040,31,2880,Pass,Nil,Nil
+18,A1018,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
+19,A1019,1HP MonoBlock,230,3,50,1020,31,2880,Pass,Nil,Nil
+21,A1020,1HP MonoBlock,220,3,50,1040,32,2880,Pass,Nil,Nil
