@@ -18,4 +18,4 @@ Sl.no,Product Code,Product Type,Voltage(V),Current(A),Frequency(Hz),Discharge(lp
 17,A1017,1HP MonoBlock,220,3,50,1040,31,2880,Pass,Nil,Nil
 18,A1018,1HP MonoBlock,230,3,50,1020,32,2880,Pass,Nil,Nil
 19,A1019,1HP MonoBlock,230,3,50,1020,31,2880,Pass,Nil,Nil
-21,A1020,1HP MonoBlock,220,3,50,1040,32,2880,Pass,Nil,Nil
+20,A1020,1HP MonoBlock,220,3,50,1040,32,2880,Pass,Nil,Nil
